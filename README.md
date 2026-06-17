@@ -46,8 +46,8 @@ I focus on understanding concepts from the basics, improving problem-solving ski
 ---
 
 ## 🎯 Goals
-- Build strong foundations in AI/ML  
-- Gain hands-on experience & deep knowledge of Neural Networks  
+- Build strong foundations in AI/ML.
+- Gain hands-on experience & deep knowledge of Neural Networks.  
 - Develop meaningful projects and improve problem-solving skills  
 - Grow consistently as an AI/ML developer  
 
